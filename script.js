@@ -6,7 +6,7 @@ const locoScroll = new LocomotiveScroll({
   smooth: true,
 
   // for tablet smooth
-  tablet: { smooth: true },
+ // tablet: { smooth: true },
 //for amazing and excellent performance
   // for mobile
   //smartphone: { smooth: true }
